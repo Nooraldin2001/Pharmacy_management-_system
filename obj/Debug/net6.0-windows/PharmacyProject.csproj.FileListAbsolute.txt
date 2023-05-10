@@ -1,0 +1,347 @@
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\Pharmacy.exe
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\Pharmacy.pdb
+D:\pharmacy project\PharmacyProject\bin\Debug\net6.0-windows\Pharmacy.exe.config
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+D:\pharmacy project\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billing.resources
+C:\Users\user\Desktop\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Form2.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billing.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Form2.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+D:\pharmacy project\Extention3\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billing.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Form2.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+C:\Users\user\Desktop\Extention3\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.BillingForm.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billview.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Form2.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+C:\Users\user\Desktop\extention 5\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.BillingForm.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billview.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+D:\pharmacy project\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Reports.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.BillingForm.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billview.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Reports.resources
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+C:\Users\user\Desktop\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.BillingForm.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billview.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Reports.resources
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.exe
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.deps.json
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.runtimeconfig.json
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\PharmacyProject.pdb
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\CircularProgressBar.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\WinFormAnimation.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.AssemblyReference.cache
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..Designer.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject..resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.BillingForm.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Billview.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.CustomerForm.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.EmployeeForm.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Form1.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.INFO.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.Login.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MainmenuForm.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\Pharmacy.MedicineForm.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.MEDmanForm.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Properties.Resources.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.Reports.resources
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.GenerateResource.cache
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfoInputs.cache
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.AssemblyInfo.cs
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CoreCompileInputs.cache
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.csproj.CopyComplete
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\refint\PharmacyProject.dll
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.pdb
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\PharmacyProject.genruntimeconfig.cache
+E:\noor work\pharmacy project\aziz\aziz\extention 5\PharmacyProject\obj\Debug\net6.0-windows\ref\PharmacyProject.dll

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\pharmacy project-version1\aziz\aziz\extention 5\PharmacyProject\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Class1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INFO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainmenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MEDman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

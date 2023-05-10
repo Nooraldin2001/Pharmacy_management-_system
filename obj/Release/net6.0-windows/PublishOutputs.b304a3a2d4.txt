@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\PharmacyAPP\PharmacyProject.exe
+C:\Users\user\Desktop\PharmacyAPP\PharmacyProject.dll
+C:\Users\user\Desktop\PharmacyAPP\PharmacyProject.deps.json
+C:\Users\user\Desktop\PharmacyAPP\PharmacyProject.runtimeconfig.json
+C:\Users\user\Desktop\PharmacyAPP\PharmacyProject.pdb
+C:\Users\user\Desktop\PharmacyAPP\CircularProgressBar.dll
+C:\Users\user\Desktop\PharmacyAPP\System.Data.SqlClient.dll
+C:\Users\user\Desktop\PharmacyAPP\WinFormAnimation.dll
+C:\Users\user\Desktop\PharmacyAPP\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\PharmacyAPP\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\PharmacyAPP\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\PharmacyAPP\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\PharmacyAPP\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
